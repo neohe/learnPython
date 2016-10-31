@@ -15,3 +15,5 @@ print f
 print f1
 print f()
 
+print map(lambda x: x * x, [2, 4, 6])
+
