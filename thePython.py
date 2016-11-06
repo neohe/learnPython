@@ -17,3 +17,5 @@ print f()
 
 print map(lambda x: x * x, [2, 4, 6])
 
+print reduce(lambda x, y: x * 10 + y, [3, 2, 1])
+
