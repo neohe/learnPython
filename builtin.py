@@ -10,3 +10,5 @@ md.update("how to use md5 in python hashlib")
 
 print md.hexdigest()
 
+os.system("ls -l")
+
