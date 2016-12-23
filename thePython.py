@@ -29,5 +29,6 @@ print reduce(fn, map(char2num, '13468'))
 
 print "Happy Birthday!"
 print "cookie & session"
+print "how to use redis"
 # openpilot
 
